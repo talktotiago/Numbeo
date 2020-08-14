@@ -1,0 +1,2 @@
+city = "Paris"
+currency = "usd"
